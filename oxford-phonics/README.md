@@ -1,30 +1,30 @@
 # Oxford Phonics World 1
 
-| 字母 | 单词                           | 句子                     |
-| :--- | :----------------------------- | :----------------------- |
-| Aa   | apple, ax, ant, alligator      | I’m an angry apple.      |
-| Bb   | bear, bird, bed, banana        | I’m a big bear.          |
-| Cc   | cat, cup, car, computer        | I’m a cool cat.          |
-| Dd   | dog, duck, doll, drum          | I’m a dainty duck.       |
-| Ee   | egg, elephant, eye, eagle      | I’m an energetic egg.    |
-| Ff   | fish, fox, frog, flower        | I’m a funny fish.        |
-| Gg   | goat, grape, gift, guitar      | I’m a gentle goat.       |
-| Hh   | hat, horse, hen, house         | I’m a happy hat.         |
-| Ii   | ice cream, igloo, ink, insect  | I’m an icy igloo.        |
-| Jj   | juice, jam, jeep, jellyfish    | I’m a jolly juice.       |
-| Kk   | kite, kangaroo, key, king      | I’m a kind kangaroo.     |
-| Ll   | lion, lemon, lamp, lollipop    | I’m a lovely lion.       |
-| Mm   | monkey, moon, milk, mouse      | I’m a merry monkey.      |
-| Nn   | nose, nut, nest, nurse         | I’m a nice nest.         |
-| Oo   | orange, owl, octopus, ox       | I’m an orange owl.       |
-| Pp   | pig, pen, pencil, peach        | I’m a pink pig.          |
-| Qq   | queen, quilt, quail, question  | I’m a quick queen.       |
-| Rr   | rabbit, rain, robot, rose      | I’m a running rabbit.    |
-| Ss   | sun, snake, star, strawberry   | I’m a sunny sun.         |
-| Tt   | tiger, tree, toy, train        | I’m a tiny tiger.        |
-| Uu   | umbrella, unicorn, up, under   | I’m an umbrella unicorn. |
-| Vv   | van, violin, vest, volcano     | I’m a vivid van.         |
-| Ww   | wolf, water, watch, watermelon | I’m a warm wolf.         |
-| Xx   | x-ray, box, fox, ax            | I’m an x-ray fox.        |
-| Yy   | yellow, yo-yo, yacht, yak      | I’m a yellow yo-yo.      |
-| Zz   | zebra, zoo, zip, zero          | I’m a zippy zebra.       |
+| 字母 | 单词                          | 句子                      |
+| :--- | :---------------------------- | :------------------------ |
+| Aa   | apple, ax, ant, alligator     | I’m an angry apple.       |
+| Bb   | bear, bird, bed, banana       | I’m a big bear.           |
+| Cc   | cat, cup, car, computer       | I’m a cool cat.           |
+| Dd   | dog, desk, doll, duck         | I’m a dizzy dog.          |
+| Ee   | egg, elbow, envelop, elephant | I’m an energetic egg.     |
+| Ff   | fish, fan,farm, fork          | I’m a funny fish.         |
+| Gg   | gorilla, goat, gift, girl     | I’m a good gorilla.       |
+| Hh   | hat, horse, house, hotdog     | I’m a happy horse.        |
+| Ii   | iguana, igloo, ink, insect    | I’m an intresting insect. |
+| Jj   | juice, jam, jacket, jet       | I’m a jambo jet.          |
+| Kk   | kite, kangaroo, key, king     | I’m a kicking kangaroo.   |
+| Ll   | lion, lemon, lamp, leaf       | I’m a lazy lion.          |
+| Mm   | monkey, money, milk, mouse    | I’m a merry monkey.       |
+| Nn   | nose, nut, nest, net          | I’m a noisy nut.          |
+| Oo   | octopus, olive, ox, ostrich   | I’m an orange octopus.    |
+| Pp   | pineapple, pen, panda, peach  | I’m a pink peach.         |
+| Qq   | queen, quilt, quiz, question  | I’m a quiet queen.        |
+| Rr   | rabbit, rice, robot, rose     | I’m a racing rabbit.      |
+| Ss   | sun, seal, soap, socks        | I’m a super seal.         |
+| Tt   | tiger, teacher, turtle, tent  | I’m a tall turtle.        |
+| Uu   | umbrella, up, uncle, umpire   | I’m an unhappy umbrella.  |
+| Vv   | van, violin, vest, vet        | I’m a violet van.         |
+| Ww   | wolf, web, watch, water       | I’m a wise wolf.          |
+| Xx   | six, box, fox, wax            | I’m a fox in a box.       |
+| Yy   | yogurt, yo-yo, yacht, yak     | I’m a yellow yo-yo.       |
+| Zz   | zebra, zoo, zipper, zero      | I’m a zigzag zipper.      |
